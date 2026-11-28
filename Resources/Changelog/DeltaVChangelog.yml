@@ -1,48 +1,4 @@
 ﻿Entries:
-- author: Minerva
-  changes:
-  - message: Kitsune now shares more markings with Felinid and Vulpkanin.
-    type: Tweak
-  id: 2239
-  time: '2026-04-11T13:14:15.0000000+00:00'
-  url: https://github.com/DeltaV-Station/Delta-v/pull/5607
-- author: BarryNorfolk
-  changes:
-  - message: Secdog grapple is now breakable from damage.
-    type: Tweak
-  - message: Secdog's grapple no longer immediately knocks you down, but just drains
-      your stamina and slows you.
-    type: Tweak
-  id: 2240
-  time: '2026-04-11T15:35:25.0000000+00:00'
-  url: https://github.com/DeltaV-Station/Delta-v/pull/5337
-- author: BarryNorfolk
-  changes:
-  - message: 'The December, and half of January, is now here! Check the Upstream changelog
-      for more information. Some highlights:'
-    type: Add
-  - message: Ephedrine, Desoxyephedrine and Hyperzine have been rebalanced
-    type: Tweak
-  - message: New chemicals Warfarin and Hemorrhinol were added that cause bleeding
-    type: Add
-  - message: Vestine-based chems don't randomly show up in botany anymore
-    type: Tweak
-  - message: Service, Medical, and Janitor borgs no longer start with tools
-    type: Tweak
-  - message: borg maintenance panel uses screwdrivers now, borg access can be pried
-      out when they're crit
-    type: Tweak
-  - message: The Cryo Pod gets its own fancy UI
-    type: Tweak
-  - message: Camera monitors now have a map showing the locations of cameras
-    type: Add
-  - message: The TEG now generates 75% more power.
-    type: Tweak
-  - message: And more!
-    type: Add
-  id: 2242
-  time: '2026-04-11T18:27:39.0000000+00:00'
-  url: https://github.com/DeltaV-Station/Delta-v/pull/5316
 - author: BarryNorfolk
   changes:
   - message: Give several entities more than 1 blood.
@@ -4472,4 +4428,28 @@
   id: 2739
   time: '2026-11-27T21:44:37.0000000+00:00'
   url: https://github.com/DeltaV-Station/Delta-v/pull/6431
+- author: keekee38
+  changes:
+  - message: A large stockpile of AKMS rifles was recently uncovered, and have been
+      refurbished to be sold in uplinks.
+    type: Add
+  id: 2740
+  time: '2026-11-28T06:35:33.0000000+00:00'
+  url: https://github.com/DeltaV-Station/Delta-v/pull/6738
+- author: staryoshi06
+  changes:
+  - message: 'Removed passive energy drain from the Tesla: it now can sustain itself
+      without particle accelerator input. The PA can more reliably generate mini-lightning,
+      instead.'
+    type: Remove
+  id: 2741
+  time: '2026-11-28T08:02:13.0000000+00:00'
+  url: https://github.com/DeltaV-Station/Delta-v/pull/6717
+- author: nlaky
+  changes:
+  - message: Fixed fun! (Honk and jonkbots no longer collide with things they shouldn't)
+    type: Fix
+  id: 2742
+  time: '2026-11-28T14:10:59.0000000+00:00'
+  url: https://github.com/DeltaV-Station/Delta-v/pull/6741
 Order: 1
